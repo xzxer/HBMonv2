@@ -23,7 +23,7 @@
 ###############################################################################
 ###############################################################################
 #
-#   HBMonitor v2 (2021) Version by Waldek SP2ONG
+#   HBMonitor v2 (2022) Version by Waldek SP2ONG
 #
 ###############################################################################
 
@@ -958,6 +958,8 @@ class dashboardFactory(WebSocketServerFactory):
 
 ######################################################################
 #
+# LOGGING ROUTINE
+#
 
 if __name__ == '__main__':
     logging.basicConfig(
@@ -975,7 +977,7 @@ if __name__ == '__main__':
     logger = logging.getLogger(__name__)
 
     logging.info('monitor.py starting up')
-    logger.info('\n\n\tCopyright (c) 2016, 2017, 2018, 2019\n\tThe Regents of the K0USY Group. All rights reserved.\n\n\tPython 3 port:\n\t2019 Steve Miller, KC1AWV <smiller@kc1awv.net>\n\n\tHBMonitor v2 SP2ONG 2019-2021\n\n')
+    logger.info('\n\n\tCopyright (c) 2016, 2017, 2018, 2019\n\tThe Regents of the K0USY Group. All rights reserved.\n\n\tPython 3 port:\n\t2019 Steve Miller, KC1AWV <smiller@kc1awv.net>\n\n\tHBMonitor v2 SP2ONG 2019-2022\n\n')
     # Check lastheard.log 
     if os.path.isfile(LOG_PATH+"lastheard.log"):
       try:
@@ -1044,11 +1046,12 @@ if __name__ == '__main__':
     reactor.connectTCP(HBLINK_IP, HBLINK_PORT, reportClientFactory())
     
 
-    # HBmonitor does not require the use of SSL as no "sensitive data" is sent to it but if you want to use SSL:
+    # HBMonV2 does not require the use of SSL as no "sensitive data" is sent to it but if you want to use SSL:
     # create websocket server to push content to clients via SSL https://
     # the web server apache2 should be configured with a signed certificate for example Letsencrypt
     # we need install pyOpenSSL required by twisted: pip3 install pyOpenSSL
     # and add load ssl module in line number 43: from twisted.internet import reactor, task, ssl
+    # Use a reverse proxy such as mod_proxy for SSL to work correctly
     #
     # put certificate https://letsencrypt.org/ used in apache server 
     #certificate = ssl.DefaultOpenSSLContextFactory('/etc/letsencrypt/live/hbmon.dmrserver.org/privkey.pem', '/etc/letsencrypt/live/hbmon.dmrserver.org/cert.pem')
