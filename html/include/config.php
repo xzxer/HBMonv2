@@ -5,7 +5,7 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 
 // Name of the monitored Dashboard
-define("REPORT_NAME","Dashboard of local DMR Network");
+define("REPORT_NAME","HBlink 3 Master Server");
 
 // Height of Server Activity window: 45px; 1 row, 60px 2 rows, 80px 3 rows
 define("HEIGHT_ACTIVITY","45px");
