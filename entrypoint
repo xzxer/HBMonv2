@@ -1,2 +1,5 @@
-cd /opt/HBMonv2
-python /opt/HBMonv2/monitor.py
+#!/bin/sh
+
+echo 'Starting HBMonv2...'
+cd /hbmon
+python /hbmon/monitor.py
