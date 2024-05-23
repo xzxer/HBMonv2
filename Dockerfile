@@ -17,20 +17,21 @@
 #   Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 ###############################################################################
 
-FROM python:alpine3.17
+FROM python:alpine3.18
 
 COPY entrypoint /entrypoint
 
-RUN adduser -D -u 54000 radio
-RUN	apk update && \
-	apk add git gcc musl-dev libffi-dev openssl-dev cargo && \
-    pip install --upgrade pip && \
-    pip cache purge && \
-	git clone https://github.com/shaymez/HBMonv2.git /hbmon && \
-    cd /hbmon && \
-	pip install --no-cache-dir -r requirements.txt && \
-	apk del git gcc musl-dev && \
-	chown -R radio /hbmon
+RUN adduser -D -u 54000 radio && \
+        apk update && \
+        apk add git gcc musl-dev && \
+        pip install --upgrade pip && \
+        pip cache purge && \
+        cd /opt && \
+        git clone https://github.com/shaymez/HBMonv2.git /hbmon && \
+        cd /hbmon && \
+        pip install --no-cache-dir -r requirements.txt && \
+        apk del git gcc musl-dev && \
+        chown -R radio: /hbmon
 
 USER radio
 
