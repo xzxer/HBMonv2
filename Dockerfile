@@ -23,14 +23,15 @@ COPY entrypoint /entrypoint
 
 RUN adduser -D -u 54000 radio && \
         apk update && \
-        apk add git gcc musl-dev && \
+        apk add git gcc musl-dev curl && \
+        curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
         pip install --upgrade pip && \
         pip cache purge && \
         cd /opt && \
         git clone https://github.com/shaymez/HBMonv2.git /hbmon && \
         cd /hbmon && \
         pip install --no-cache-dir -r requirements.txt && \
-        apk del git gcc musl-dev && \
+        apk del git gcc musl-dev curl && \
         chown -R radio: /hbmon
 
 USER radio
