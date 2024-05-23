@@ -24,7 +24,7 @@ COPY entrypoint /entrypoint
 RUN adduser -D -u 54000 radio && \
         apk update && \
         apk add git gcc musl-dev curl && \
-        curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh && \
+        curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh -y && \
         pip install --upgrade pip && \
         pip cache purge && \
         cd /opt && \
