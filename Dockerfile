@@ -17,7 +17,7 @@
 #   Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 ###############################################################################
 
-FROM python:alpine3.12
+FROM python:alpine3.16
 
 COPY entrypoint /entrypoint
 
