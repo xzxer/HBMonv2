@@ -1,4 +1,4 @@
-** No More Develoment **
+**HBMonv2 - Adapted - Dockerised**
 
 **HBmonitor is a "web dashboard" for HBlink by N0MJS. Further developed by Steve KC1AWV**
 
@@ -8,9 +8,7 @@
 The main difference between HBMonitor v1 and v2 is the layout, i.e. the main page shows condensed 
 information and on the subpages, you can see the individual content that was shown on v1
 
-Recommend not running HBmonitor on the same computer as HBlink3
-
-HBMonv2 is tested on Debian v9 v10 & v11
+HBMonv2 is tested on Debian v10 & v11
 
 This version of HBMonv2 requires a web server like apache2, lighttpd and 
 php support running on the server. 
