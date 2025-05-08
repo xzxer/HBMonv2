@@ -3,6 +3,7 @@
 CONFIG_INC      = True                           # Include HBlink stats
 HOMEBREW_INC    = True                           # Display Homebrew Peers status
 LASTHEARD_INC   = True                           # Display lastheard table on main page
+LASTHEARD_NUM   = 100
 BRIDGES_INC     = False                          # Display Bridge status and button
 EMPTY_MASTERS   = False                          # Display Enable (True) or DISABLE (False) empty masters in status
 #

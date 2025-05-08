@@ -8,7 +8,7 @@ include_once 'include/version.php';?>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="refresh" content="30">
-<title>HBlink3 DMR Server - Lastheard</title>
+<title>CFLAG - Lastheard</title>
 <script type="text/javascript" src="scripts/hbmon.js"></script>
 <link rel="stylesheet" type="text/css" href="css/styles.php" />
 <meta name="description" content="Copyright &copy; 2016-2023. The Regents of the K0USY Group. All rights reserved. Version SP2ONG 2019-2023 (v20230102) HBlink3 Dashboard " />

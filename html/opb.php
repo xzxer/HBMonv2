@@ -7,7 +7,7 @@ include_once 'include/version.php';?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" lang="en">
 <head>
 <meta charset="UTF-8">
-<title>HBlink3 DMR Server - OpenBridge Systems</title>
+<title>CFLAG - OpenBridge Systems</title>
 <script type="text/javascript" src="scripts/hbmon.js"></script>
 <link rel="stylesheet" type="text/css" href="css/styles.php" />
 <meta name="description" content="Copyright &copy; 2016-2023. The Regents of the K0USY Group. All rights reserved. Version SP2ONG 2019-2023 (v20230102) HBlink3 Dashboard " />
