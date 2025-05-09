@@ -37,8 +37,8 @@
 import logging
 import sys
 import datetime
-
 import os
+sys.path.insert(0, os.path.dirname(os.path.realpath(__file__)))
 import csv
 from itertools import islice
 from subprocess import check_call, CalledProcessError
@@ -1066,9 +1066,9 @@ if __name__ == '__main__':
     #reactor.listenSSL(9000, dashboard_server,certificate)
 
     # Create websocket server to push content to clients via http:// non SSL
-    dashboard_server = dashboardFactory('ws://*:9000')
+    dashboard_server = dashboardFactory('ws://*:9001')
     dashboard_server.protocol = dashboard
-    reactor.listenTCP(9000, dashboard_server)
+    reactor.listenTCP(9001, dashboard_server)
 
 
     reactor.run()

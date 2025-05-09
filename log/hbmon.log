@@ -1,0 +1,846 @@
+2025-05-09 17:30:13 INFO monitor.py starting up
+2025-05-09 17:30:13 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:30:13 INFO Check lastheard.log file
+2025-05-09 17:30:14 INFO ID ALIAS MAPPER: 'peer_ids.json' successfully downloaded
+2025-05-09 17:30:15 INFO ID ALIAS MAPPER: 'subscriber_ids.json' successfully downloaded
+2025-05-09 17:30:15 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:30:17 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:30:17 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:30:17 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:30:17 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:30:17 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:30:18 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f814daa9e50>
+2025-05-09 17:30:18 INFO Initiating Connection to Server.
+2025-05-09 17:30:48 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:30:51 INFO Initiating Connection to Server.
+2025-05-09 17:31:21 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:31:28 INFO Initiating Connection to Server.
+2025-05-09 17:31:58 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:32:06 INFO monitor.py starting up
+2025-05-09 17:32:06 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:32:07 INFO Check lastheard.log file
+2025-05-09 17:32:07 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:32:07 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:32:07 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:32:09 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:32:09 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:32:09 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:32:09 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:32:09 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:32:10 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f5c6ac812b0>
+2025-05-09 17:32:11 INFO Initiating Connection to Server.
+2025-05-09 17:32:17 INFO Initiating Connection to Server.
+2025-05-09 17:32:47 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:33:20 INFO monitor.py starting up
+2025-05-09 17:33:20 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:33:20 INFO Check lastheard.log file
+2025-05-09 17:33:20 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:33:20 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:33:20 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:33:22 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:33:22 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:33:22 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:33:22 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:33:22 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:33:23 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f92d6c0bb50>
+2025-05-09 17:33:23 INFO Initiating Connection to Server.
+2025-05-09 17:33:27 INFO monitor.py starting up
+2025-05-09 17:33:27 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:33:27 INFO Check lastheard.log file
+2025-05-09 17:33:27 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:33:27 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:33:27 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:33:29 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:33:30 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:33:30 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:33:30 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:33:30 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:33:31 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f05bb2aadc0>
+2025-05-09 17:33:31 INFO Initiating Connection to Server.
+2025-05-09 17:33:38 INFO monitor.py starting up
+2025-05-09 17:33:38 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:33:38 INFO Check lastheard.log file
+2025-05-09 17:33:38 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:33:38 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:33:38 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:33:40 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:33:41 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:33:41 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:33:41 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:33:41 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:33:41 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f18af9eedc0>
+2025-05-09 17:33:41 INFO Initiating Connection to Server.
+2025-05-09 17:33:47 INFO monitor.py starting up
+2025-05-09 17:33:47 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:33:47 INFO Check lastheard.log file
+2025-05-09 17:33:47 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:33:47 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:33:47 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:33:49 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:33:49 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:33:49 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:33:49 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:33:49 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:33:50 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7fea1bcc3dc0>
+2025-05-09 17:33:50 INFO Initiating Connection to Server.
+2025-05-09 17:33:53 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:33:56 INFO Initiating Connection to Server.
+2025-05-09 17:33:56 INFO monitor.py starting up
+2025-05-09 17:33:56 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:33:56 INFO Check lastheard.log file
+2025-05-09 17:33:56 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:33:56 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:33:56 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:33:58 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:33:58 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:33:58 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:33:58 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:33:58 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:33:58 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f53c07fde20>
+2025-05-09 17:33:58 INFO Initiating Connection to Server.
+2025-05-09 17:34:05 INFO monitor.py starting up
+2025-05-09 17:34:05 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:05 INFO Check lastheard.log file
+2025-05-09 17:34:05 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:05 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:05 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:07 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:07 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:07 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:07 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:07 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:07 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f88de28aa30>
+2025-05-09 17:34:07 INFO Initiating Connection to Server.
+2025-05-09 17:34:13 INFO monitor.py starting up
+2025-05-09 17:34:13 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:13 INFO Check lastheard.log file
+2025-05-09 17:34:13 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:13 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:13 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:15 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:15 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:15 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:15 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:15 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:15 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f188d05cdc0>
+2025-05-09 17:34:15 INFO Initiating Connection to Server.
+2025-05-09 17:34:22 INFO monitor.py starting up
+2025-05-09 17:34:22 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:22 INFO Check lastheard.log file
+2025-05-09 17:34:22 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:22 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:22 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:24 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:24 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:24 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:24 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:24 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:24 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f4f26d05dc0>
+2025-05-09 17:34:24 INFO Initiating Connection to Server.
+2025-05-09 17:34:26 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:34:30 INFO monitor.py starting up
+2025-05-09 17:34:30 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:30 INFO Check lastheard.log file
+2025-05-09 17:34:30 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:30 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:30 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:32 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:32 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:32 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:32 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:32 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:32 INFO Initiating Connection to Server.
+2025-05-09 17:34:32 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f3d9d7dfe20>
+2025-05-09 17:34:32 INFO Initiating Connection to Server.
+2025-05-09 17:34:38 INFO monitor.py starting up
+2025-05-09 17:34:38 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:38 INFO Check lastheard.log file
+2025-05-09 17:34:38 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:38 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:38 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:40 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:40 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:40 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:40 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:40 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:40 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f74e99b61c0>
+2025-05-09 17:34:40 INFO Initiating Connection to Server.
+2025-05-09 17:34:46 INFO monitor.py starting up
+2025-05-09 17:34:46 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:46 INFO Check lastheard.log file
+2025-05-09 17:34:46 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:46 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:46 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:48 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:48 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:48 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:48 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:48 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:48 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7fb87be91160>
+2025-05-09 17:34:48 INFO Initiating Connection to Server.
+2025-05-09 17:34:54 INFO monitor.py starting up
+2025-05-09 17:34:54 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:34:54 INFO Check lastheard.log file
+2025-05-09 17:34:54 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:34:54 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:34:54 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:34:55 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:34:55 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:34:55 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:34:55 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:34:55 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:34:56 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f07ca59f1c0>
+2025-05-09 17:34:56 INFO Initiating Connection to Server.
+2025-05-09 17:34:57 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectError'>: An error occurred while connecting: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+].
+]
+2025-05-09 17:35:02 INFO monitor.py starting up
+2025-05-09 17:35:02 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:35:02 INFO Check lastheard.log file
+2025-05-09 17:35:02 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:35:02 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:35:02 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:35:04 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:35:04 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:35:04 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:35:04 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:35:04 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:35:04 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f3ff09a0e20>
+2025-05-09 17:35:04 INFO Initiating Connection to Server.
+2025-05-09 17:35:34 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:35:37 INFO Initiating Connection to Server.
+2025-05-09 17:36:07 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:36:16 INFO Initiating Connection to Server.
+2025-05-09 17:36:46 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:37:10 INFO Initiating Connection to Server.
+2025-05-09 17:37:22 INFO monitor.py starting up
+2025-05-09 17:37:22 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:37:22 INFO Check lastheard.log file
+2025-05-09 17:37:22 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:37:22 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:37:22 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:37:25 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:37:25 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:37:25 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:37:25 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:37:25 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:37:25 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f269ef9ab50>
+2025-05-09 17:37:25 INFO Initiating Connection to Server.
+2025-05-09 17:37:40 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:38:39 INFO Initiating Connection to Server.
+2025-05-09 17:38:59 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectError'>: An error occurred while connecting: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionLost'>: Connection to the other side was lost in a non-clean fashion: Connection lost.
+].
+]
+2025-05-09 17:39:06 INFO monitor.py starting up
+2025-05-09 17:39:06 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:06 INFO Check lastheard.log file
+2025-05-09 17:39:06 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:06 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:06 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:09 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:09 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:09 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:09 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:09 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:10 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f54a33e9b50>
+2025-05-09 17:39:10 INFO Initiating Connection to Server.
+2025-05-09 17:39:18 INFO monitor.py starting up
+2025-05-09 17:39:18 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:18 INFO Check lastheard.log file
+2025-05-09 17:39:18 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:18 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:18 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:21 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:21 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:21 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:21 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:21 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:22 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7fb338922dc0>
+2025-05-09 17:39:22 INFO Initiating Connection to Server.
+2025-05-09 17:39:30 INFO monitor.py starting up
+2025-05-09 17:39:30 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:30 INFO Check lastheard.log file
+2025-05-09 17:39:30 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:30 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:30 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:32 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:32 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:32 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:32 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:32 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:32 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f609c28f160>
+2025-05-09 17:39:32 INFO Initiating Connection to Server.
+2025-05-09 17:39:38 INFO monitor.py starting up
+2025-05-09 17:39:38 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:38 INFO Check lastheard.log file
+2025-05-09 17:39:38 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:38 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:39 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:41 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:41 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:41 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:41 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:41 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:41 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f108f33be20>
+2025-05-09 17:39:41 INFO Initiating Connection to Server.
+2025-05-09 17:39:47 INFO monitor.py starting up
+2025-05-09 17:39:47 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:47 INFO Check lastheard.log file
+2025-05-09 17:39:47 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:47 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:47 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:49 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:49 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:49 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:49 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:49 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:49 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f6970afcdc0>
+2025-05-09 17:39:49 INFO Initiating Connection to Server.
+2025-05-09 17:39:55 INFO monitor.py starting up
+2025-05-09 17:39:55 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:39:56 INFO Check lastheard.log file
+2025-05-09 17:39:56 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:39:56 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:39:56 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:39:58 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:39:58 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:39:58 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:39:58 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:39:58 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:39:58 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f85bcd1e820>
+2025-05-09 17:39:58 INFO Initiating Connection to Server.
+2025-05-09 17:40:04 INFO monitor.py starting up
+2025-05-09 17:40:04 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:04 INFO Check lastheard.log file
+2025-05-09 17:40:04 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:04 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:04 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:06 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:06 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:06 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:06 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:06 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:06 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f6bb0e281c0>
+2025-05-09 17:40:06 INFO Initiating Connection to Server.
+2025-05-09 17:40:13 INFO monitor.py starting up
+2025-05-09 17:40:13 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:13 INFO Check lastheard.log file
+2025-05-09 17:40:13 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:13 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:13 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:15 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:15 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:15 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:15 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:15 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:15 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f5705473dc0>
+2025-05-09 17:40:15 INFO Initiating Connection to Server.
+2025-05-09 17:40:21 INFO monitor.py starting up
+2025-05-09 17:40:21 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:21 INFO Check lastheard.log file
+2025-05-09 17:40:21 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:21 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:21 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:23 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:23 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:23 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:23 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:23 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:23 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f8dca70b1c0>
+2025-05-09 17:40:23 INFO Initiating Connection to Server.
+2025-05-09 17:40:29 INFO monitor.py starting up
+2025-05-09 17:40:29 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:29 INFO Check lastheard.log file
+2025-05-09 17:40:29 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:29 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:29 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:31 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:31 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:31 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:31 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:31 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:31 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f632ae6d670>
+2025-05-09 17:40:31 INFO Initiating Connection to Server.
+2025-05-09 17:40:37 INFO monitor.py starting up
+2025-05-09 17:40:37 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:37 INFO Check lastheard.log file
+2025-05-09 17:40:37 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:37 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:37 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:39 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:39 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:39 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:39 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:39 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:39 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7fe62837fe50>
+2025-05-09 17:40:39 INFO Initiating Connection to Server.
+2025-05-09 17:40:45 INFO monitor.py starting up
+2025-05-09 17:40:45 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:45 INFO Check lastheard.log file
+2025-05-09 17:40:45 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:45 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:45 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:47 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:47 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:47 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:47 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:47 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:47 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7ff7c7c76160>
+2025-05-09 17:40:47 INFO Initiating Connection to Server.
+2025-05-09 17:40:53 INFO monitor.py starting up
+2025-05-09 17:40:53 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:40:53 INFO Check lastheard.log file
+2025-05-09 17:40:53 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:40:53 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:40:53 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:40:55 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:40:55 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:40:55 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:40:55 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:40:55 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:40:56 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f30bfc63160>
+2025-05-09 17:40:56 INFO Initiating Connection to Server.
+2025-05-09 17:41:02 INFO monitor.py starting up
+2025-05-09 17:41:02 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:02 INFO Check lastheard.log file
+2025-05-09 17:41:02 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:02 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:02 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:03 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:03 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:03 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:03 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:03 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:04 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f422c307160>
+2025-05-09 17:41:04 INFO Initiating Connection to Server.
+2025-05-09 17:41:10 INFO monitor.py starting up
+2025-05-09 17:41:10 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:10 INFO Check lastheard.log file
+2025-05-09 17:41:10 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:10 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:10 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:12 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:12 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:12 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:12 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:12 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:12 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f29432b5670>
+2025-05-09 17:41:12 INFO Initiating Connection to Server.
+2025-05-09 17:41:18 INFO monitor.py starting up
+2025-05-09 17:41:18 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:18 INFO Check lastheard.log file
+2025-05-09 17:41:18 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:18 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:18 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:19 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:19 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:19 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:19 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:19 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:20 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7fba625141c0>
+2025-05-09 17:41:20 INFO Initiating Connection to Server.
+2025-05-09 17:41:26 INFO monitor.py starting up
+2025-05-09 17:41:26 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:26 INFO Check lastheard.log file
+2025-05-09 17:41:26 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:26 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:26 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:27 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:27 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:27 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:27 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:27 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:28 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f06183f5dc0>
+2025-05-09 17:41:28 INFO Initiating Connection to Server.
+2025-05-09 17:41:34 INFO monitor.py starting up
+2025-05-09 17:41:34 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:34 INFO Check lastheard.log file
+2025-05-09 17:41:34 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:34 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:34 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:35 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:35 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:35 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:35 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:35 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:36 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7faaf3868e20>
+2025-05-09 17:41:36 INFO Initiating Connection to Server.
+2025-05-09 17:41:42 INFO monitor.py starting up
+2025-05-09 17:41:42 INFO 
+
+	Copyright (c) 2016, 2017, 2018, 2019
+	The Regents of the K0USY Group. All rights reserved.
+
+	Python 3 port:
+	2019 Steve Miller, KC1AWV <smiller@kc1awv.net>
+
+	HBMonitor v2 SP2ONG 2019-2022
+
+
+2025-05-09 17:41:42 INFO Check lastheard.log file
+2025-05-09 17:41:42 INFO ID ALIAS MAPPER: 'peer_ids.json' is current, not downloaded
+2025-05-09 17:41:42 INFO ID ALIAS MAPPER: 'subscriber_ids.json' is current, not downloaded
+2025-05-09 17:41:42 INFO ID ALIAS MAPPER: peer_ids dictionary is available
+2025-05-09 17:41:43 INFO ID ALIAS MAPPER: subscriber_ids dictionary is available
+2025-05-09 17:41:43 INFO ID ALIAS MAPPER: talkgroup_ids dictionary is available
+2025-05-09 17:41:43 INFO ID ALIAS MAPPER: local_subscriber_ids added to subscriber_ids dictionary
+2025-05-09 17:41:43 INFO ID ALIAS MAPPER: local_talkgroup_ids added to talkgroup_ids dictionary
+2025-05-09 17:41:43 INFO ID ALIAS MAPPER: local_peer_ids added peer_ids dictionary
+2025-05-09 17:41:44 INFO reportClient object for connecting to HBlink.py created at: <__main__.reportClientFactory object at 0x7f2a656c5070>
+2025-05-09 17:41:44 INFO Initiating Connection to Server.
+2025-05-09 17:42:14 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:42:16 INFO Initiating Connection to Server.
+2025-05-09 17:42:46 INFO Connection failed. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.TimeoutError'>: User timeout caused connection failure.
+]
+2025-05-09 17:42:52 INFO Initiating Connection to Server.
