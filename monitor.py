@@ -69,7 +69,7 @@ from dmr_utils3.utils import int_id, try_download, bytes_4
 from json import load as jload
 
 # Configuration variables and constants
-from config import *
+from hbmon_config import *
 
 # SP2ONG - Increase the value if HBlink link break occurs
 NetstringReceiver.MAX_LENGTH = 500000000
